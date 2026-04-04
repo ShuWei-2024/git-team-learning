@@ -5,3 +5,5 @@
 
 
 hcq:学习了git基本用法
+
+wsy:学习了add，vim，pull，push，status等命令
