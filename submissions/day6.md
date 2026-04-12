@@ -3,4 +3,4 @@
 Try to push 
 
 ## fujiajun
-resolve a conflict
+resolve a confli
