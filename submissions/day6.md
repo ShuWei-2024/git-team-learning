@@ -11,4 +11,3 @@ resolve a conflict
 
 2. 在本地制造了冲突并解决：打开文件删掉 `<<<<<<<` 等标记，保留正确内容后 `git add` 再 `git commit`.
 
-
